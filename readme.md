@@ -13,8 +13,8 @@ cargo run
 
 ## Evaluation
 ``` bash
-python eval.py
+python3 eval.py
 ```
-
+<img src="media/Figure_1.png" alt="Evaluation"/>    
 ## Misc
 * Images are retrieved from lorem picsum api, retrieval script emitted
